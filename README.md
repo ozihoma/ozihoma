@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henry Azubuike</h1>
-<h3 align="center">Software Developer • AI Engineer • Product Manager • UI/UX Designer</h3>
+<h3 align="center">Full Stack Developer • AI Engineer • Product Manager • DevOps Engineer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer;Next.js+%7C+React+%7C+Python;Building+Scalable+Apps;Turning+Ideas+Into+Products" />
