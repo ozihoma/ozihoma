@@ -1,34 +1,40 @@
 <h1 align="center">Hi 👋, I'm Henry Azubuike</h1>
-<h3 align="center">Software Developer • Product Manager • AI Engineer • Copywriter</h3>
+<h3 align="center">Software Developer • AI Engineer • Product Manager • UI/UX Designer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer+%7C+Product+Manager;React+%7C+Next.js+%7C+Python;Building+Scalable+Apps+for+Millions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer;Next.js+%7C+React+%7C+Python;Building+Scalable+Apps;Turning+Ideas+Into+Products" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-💡 I build **high-performance scalable web and mobile applications** capable of handling massive data flows.
-
-⚡ My work spans **Full-Stack Development, AI Engineering, Product Design, and UI/UX**.
-
-🧠 I enjoy solving complex engineering problems while delivering **clean architecture and excellent user experiences**.
-
-🌍 Currently contributing to innovative tech projects across **Africa and globally (remote teams)**.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ozihoma&label=Profile%20views&color=0e75b6&style=flat" alt="ozihoma" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 About Me
+
+💡 I build **scalable web and mobile applications** that handle massive data flows.  
+
+⚡ Experienced in **Full-Stack Development, AI/NLP, Product Design and SaaS platforms**.  
+
+🌍 I collaborate with global teams building **modern digital products used by thousands of users**.
+
+🧠 Passionate about **AI, distributed systems, developer tools and startup innovation**.
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://ozioma.netlify.app" target="_blank">
+<a href="https://ozioma.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:azubuikeho@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/ozihoma">
@@ -43,106 +49,95 @@
 
 ---
 
-# 🛠 Tech Stack
+# 🧠 Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,php" />
+</p>
 
----
+### Frontend
 
-### ⚛️ Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,vue,tailwind" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)
-![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux)
-![Vue](https://img.shields.io/badge/VueJS-4FC08D?style=for-the-badge&logo=vue.js)
+### Mobile
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=react,flutter" />
+</p>
 
-### 📱 Mobile
+### Backend & Cloud
 
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
-![Expo](https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=expo)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,aws,graphql" />
+</p>
 
----
+### Databases
 
-### 🧠 Backend & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+### Design & Product
 
----
-
-### 🗄 Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
----
-
-### 🎨 Design & Product
-
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
-![Google Analytics](https://img.shields.io/badge/Analytics-orange?style=for-the-badge&logo=google-analytics)
+<p>
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
 
 ---
 
 # 📌 Featured Projects
 
 ### 💳 Bankina
-Modern fintech platform for seamless **banking and digital payments**.
+Fintech platform providing seamless digital payments and financial tools.
 
-Tech Stack  
+Tech:  
 `React Native` `Expo` `TypeScript` `Next.js` `Tailwind`
 
-🔗 https://bankina.ng/
+https://bankina.ng/
 
 ---
 
 ### 📊 SYNKD
-Marketing and **data privacy platform** with campaign management and analytics.
+Marketing automation and privacy platform with smart analytics.
 
-Tech Stack  
-`Next.js` `TypeScript` `TailwindCSS`
+Tech:  
+`Next.js` `TypeScript` `Tailwind`
 
-🔗 https://synkd.life
+https://synkd.life
 
 ---
 
 ### 🏥 One Health
-Healthcare platform offering **medical services, patient resources and online pharmacy**.
+Healthcare platform offering online pharmacy and medical resources.
 
-Tech Stack  
+Tech:  
 `HTML` `CSS` `Bootstrap`
 
-🔗 https://web.onehealthng.com/
+https://web.onehealthng.com/
 
 ---
 
 ### 💰 LenaPay
-Modern **SaaS payment solution for global transactions** with real-time exchange rates.
+Modern SaaS payment system supporting multi-currency transactions.
 
-Tech Stack  
+Tech:  
 `Next.js` `Node.js` `Python` `PostgreSQL`
 
-🔗 https://lenapay.netlify.app/
+https://lenapay.netlify.app/
 
 ---
 
 ### 🎵 Ozioma Music Platform
-Interactive **music education platform** with tutorials and community features.
+Interactive music education platform with real-time learning content.
 
-Tech Stack  
-`Next.js` `TailwindCSS` `TypeScript`
+Tech:  
+`Next.js` `Tailwind` `TypeScript`
 
-🔗 https://ozihoma.netlify.app/
+https://ozihoma.netlify.app/
 
 ---
 
@@ -161,9 +156,23 @@ Tech Stack
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozihoma&theme=tokyonight"/>
+</p>
 
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ozihoma&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ozihoma/ozihoma/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -178,10 +187,20 @@ Tech Stack
 
 ---
 
-# ⚡ Fun Fact
+# ✍️ Dev Quote
 
-I combine **software engineering, AI, product design, and storytelling** to build digital products that solve real problems and scale globally.
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
-<p align="center">⭐ If you like my work, consider following me!</p>
+# ⚡ Fun Fact
+
+I combine **Software Engineering, AI, Product Design and Copywriting** to build digital products that scale globally.
+
+---
+
+<p align="center">
+⭐️ From <b>ozihoma</b> with passion for building great software.
+</p>
